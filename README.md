@@ -8,7 +8,7 @@ This is a Node.js project for a homework assignment. It includes code that demon
 To install this project, clone the repository from GitHub: git clone https://github.com/kylecoding1/node-js.git
 
 ## Usage
-To use this project, navigate to the project directory and run the main script using Node.js: cd node.js-homework
+To use this project, navigate to the project directory and run the main script using Node.js: 
 node index.js
 This will execute the code and display the output in the console.
 
